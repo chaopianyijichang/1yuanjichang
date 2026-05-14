@@ -1,8 +1,8 @@
-# 🚀 1yuanjichang
-超级便宜机场推荐专题：介绍低价机场 包括一元机场、免费试用机场合集。 
+## 🚀超便宜机场和一元机场推荐请关注github
+超级便宜又好用的机场推荐专题：介绍低价机场 包括一元机场、免费试用机场合集。 
 
 > 专注整理 **超低价机场、1元机场、免费试用机场、低门槛订阅节点**。  
-> 如果你只是偶尔上外网、轻度使用 YouTube / Telegram / X / Instagram / ChatGPT，没必要一上来就买高价大流量套餐。  
+> 如果你只是偶尔上外网、轻度使用 YouTube / Telegram / X / Instagram / ChatGPT，一般没必要一上来就买高价大流量套餐。  
 > 这份 README 更适合想找 **便宜机场、试用机场、轻量月付机场、入门机场推荐** 的用户。
 
 ---
@@ -36,7 +36,7 @@
 - **免费 + 增值（Freemium）模式机场**
 - **适合轻量用户的高性价比机场**
 
-这份专题就是围绕这些关键词来整理的。
+这份专题就是围绕这些用户的需求来整理的。
 
 ---
 
@@ -49,7 +49,7 @@
 - 想先试用再决定是否长期订阅
 - 需要一个 **低门槛、便宜、适合入门** 的机场
 - 更关心 **价格、试用、稳定性、轻度使用体验**
-- 想找 **一元机场 / 便宜机场 / 性价比机场推荐**
+- 想找 **一元机场 / 超便宜机场 / 性价比机场推荐**
 
 ---
 
@@ -73,15 +73,15 @@
 
 ## 🔥 热门便宜机场推荐
 
----
+---【建议在pc上按Ctrl +左键 打开】
 
-### 1. [Phantom / 饭桶机场](https://pin.dianping.men/auth/register?code=V1TksbQ0)
+### 1. [Phantom](https://pin.dianping.men/auth/register?code=V1TksbQ0)
 
 **关键词：** 一元机场 / 低价月付 / 新手机场 / 轻量订阅 / 性价比机场
 
 **推荐理由：**
 
-Phantom / 饭桶机场这类方案最大的优势，就是 **门槛极低**。  
+Phantom 机场这类方案最大的优势，就是 **门槛极低**。  
 对于很多只是偶尔上外网、查资料、刷社媒、看少量视频的用户来说，这种机场并不是拿来追求极限性能，而是为了：
 
 - 花很少的钱保留一个可用入口
@@ -104,7 +104,7 @@ Phantom / 饭桶机场这类方案最大的优势，就是 **门槛极低**。
 - 对第一次接触机场的新手比较友好
 
 **入口：**  
-👉 [Phantom / 饭桶机场](https://pin.dianping.men/auth/register?code=V1TksbQ0)
+👉 [Phantom机场](https://pin.dianping.men/auth/register?code=V1TksbQ0)
 
 ---
 
@@ -357,7 +357,7 @@ TeaCat 比较适合那种“**先试明白，再决定买不买**”的用户。
 - [Phantom / 饭桶机场](https://pin.dianping.men/auth/register?code=V1TksbQ0)
 - [大白机场](https://www.dabai.in/auth/register?code=lqil)
 - [蓝胖云](https://74u.lanpangyun.de/#/register?code=eV0x5n8p)
-- [更多机场]( /more-airport/no1.html )
+- [更多机场]( https://www.bj999.cc/more-airport/no1.html )
 
 > 注：价格、活动、试用时长、流量额度可能会变动，实际情况请以对应页面或官方入口最新说明为准。
 
