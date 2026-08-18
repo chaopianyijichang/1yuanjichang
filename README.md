@@ -71,7 +71,7 @@
 
 ---
 
-## 🔥 热门便宜机场推荐
+## 🔥 热门便宜机场推荐 [>>更多便宜的机场节点订阅](https://github.com/chaopianyijichang/zuipianyijichang)
 
 ---【建议在pc上按Ctrl +左键 打开】
 
@@ -146,43 +146,42 @@ TeaCat 比较适合那种“**先试明白，再决定买不买**”的用户。
 
 **入口：**  
 👉 [TeaCat](https://www.bj999.cc/jichangtuijian/teacat.html)
-
+-能平替Teacat的机场有吗？有，这里[进入迅连](https://soontg.kbr1g.com//register?code=Bu9MNFLL) -【送1天10G，真的是1天有效】 。
 ---
 
-### 3. [大白机场](https://www.dabai.in/auth/register?code=lqil)
+### 3. [良心云](https://良心云.com/#/register?code=lBXX47Kb)
 
-**关键词：** 免费机场 / 免费+增值机场 / Freemium机场 / 长期可用机场
+**关键词：** 超便宜机场 / 隐私保护好的机场 / 长期可用机场 / 多年经营
 
 **推荐理由：**
 
-大白机场更像是“**免费体验 + 付费升级**”路线的典型代表。  
-这种模式比单纯打着永久免费旗号的机场更现实，因为它有机会依靠付费用户支撑整体运营。
+同样很便宜，TLS1.3加密，不记录节点日志。支持第三方订阅。多地区节点,最多支持20台设备。1000g月付只要6元,按量付21元有1000g不限时。
+
 
 通常这类机场的特点是：
 
-- 免费用户可以先用
+- 流量超级多，量大管饱
 - 普通线路可能更拥挤
 - 高峰期体验未必理想
-- 更好的线路、速度或优先级需要升级
+- 支持的设备多
 
-也正因为这种模式更贴近商业可持续，所以它比很多短命的“纯免费机场”更值得留意。
+虽然是收费机场，但这种低价策略可持续，所以它比很多短命的“纯免费机场”更值得留意。
 
 **适合人群：**
 
 - 预算有限用户
-- 只是偶尔使用的人
-- 能接受免费节点有一定限制的人
-- 想先体验一下机场基础可用性的人
+- 对流量要求多的人
+- 多人共享节点
 
 **亮点概括：**
 
-- 免费入口友好
-- 有一定延续性思路
-- 适合先体验再升级
-- 比“完全免费但随时跑路”更实际
+- 低价
+- 超多流量
+- 加密还好
+- 比“完全免费但随时跑路”好多了
 
 **入口：**  
-👉 [大白机场](https://www.dabai.in/auth/register?code=lqil)
+👉 [良心云](https://良心云.com/#/register?code=lBXX47Kb)
 
 ---
 
@@ -264,7 +263,7 @@ TeaCat 比较适合那种“**先试明白，再决定买不买**”的用户。
 |---|---|---|---|---|
 | 1 | [Phantom / 饭桶机场](https://pin.dianping.men/auth/register?code=V1TksbQ0) | 一元月付 / 超低门槛 | A1 | 新手、轻度用户、预算敏感用户 |
 | 2 | [TeaCat](https://www.bj999.cc/jichangtuijian/teacat.html) | 24小时试用 / 体验优先 | A1 | 想先试用再决定的人 |
-| 3 | [大白机场](https://www.dabai.in/auth/register?code=lqil) | 免费+增值 / 先体验后升级 | A2 | 预算有限、接受免费线路限制的人 |
+| 3 | [良心云](https://良心云.com/#/register?code=lBXX47Kb) | 追求便宜 / 流量要求多 | A2 | 对私密有一定要求的人 |
 | 4 | [蓝胖云](https://74u.lanpangyun.de/#/register?code=eV0x5n8p) | 低价均衡 / 日常够用 | A2 | 希望更稳一点的长期轻量用户 |
 
 ---
@@ -355,7 +354,6 @@ TeaCat 比较适合那种“**先试明白，再决定买不买**”的用户。
 
 - [TeaCat](https://www.bj999.cc/jichangtuijian/teacat.html)
 - [Phantom / 饭桶机场](https://pin.dianping.men/auth/register?code=V1TksbQ0)
-- [大白机场](https://www.dabai.in/auth/register?code=lqil)
 - [蓝胖云](https://74u.lanpangyun.de/#/register?code=eV0x5n8p)
 - [更多机场]( https://www.bj999.cc/more-airport/no1.html )
 
@@ -437,7 +435,7 @@ TeaCat 比较适合那种“**先试明白，再决定买不买**”的用户。
 - [热门便宜机场推荐](#-热门便宜机场推荐)
   - [Phantom / 饭桶机场](#1-phantom--饭桶机场)
   - [TeaCat](#2-teacat)
-  - [大白机场](#3-大白机场)
+  - [良心云](#3-良心云)
   - [蓝胖云](#4-蓝胖云)
 - [低价机场怎么选更合理](#-低价机场怎么选更合理)
 - [低价机场评级一览](#-低价机场评级一览)
